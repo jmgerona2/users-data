@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 6,
+      "id": 1,
     "name": "Dennis Schulist",
     "lastname": "Corkery",
     "email address": "Karley_Dach@jasper.info",
@@ -27,7 +27,25 @@
     },
     {
       "id": 2,
-      "Job title": "Post 2"
+    "name": "Kurtis Weissnat",
+    "last name": "Elwyn.Skiles",
+    "email address": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
     },
     {
       "id": 3,
