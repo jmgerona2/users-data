@@ -2,17 +2,17 @@
   "user": [
     {
       "id": 1,
-      "Name": Juan
+      "Name": "Juan"
       "Job title": "Plumber"
     },
     {
       "id": 2,
-       "Name": Dos
+       "Name": "Dos"
       "Job title": "Plumber"
     },
     {
       "id": 3,
-       "Name": Three
+       "Name": "Three"
       "Job title": "Plumber"
     }
   ],
