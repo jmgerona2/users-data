@@ -1,19 +1,16 @@
 {
-  "user": [
+  "posts": [
     {
       "id": 1,
-      "Name": "Juan"
-      "Job title": "Plumber"
+      "title": "Post 1"
     },
     {
       "id": 2,
-       "Name": "Dos"
-      "Job title": "Plumber"
+      "title": "Post 2"
     },
     {
       "id": 3,
-       "Name": "Three"
-      "Job title": "Plumber"
+      "title": "Post 3"
     }
   ],
   "comments": [
